@@ -5,3 +5,4 @@ caddy
 redis
 alpine
 golang:1.18-alpine
+eclipse-mosquitto
