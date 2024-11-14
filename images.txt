@@ -3,3 +3,5 @@ docker.rainbond.cc/library/python:3.11-slim
 nginx
 caddy
 redis
+alpine
+golang:1.18-alpine
